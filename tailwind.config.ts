@@ -61,6 +61,50 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				amber: {
+					DEFAULT: '#F4A660',
+					50: '#FDF7F0',
+					100: '#FBEBD6',
+					400: '#F4A660',
+					600: '#E8924A',
+					800: '#C4742D'
+				},
+				wood: {
+					DEFAULT: '#8B4513',
+					light: '#D2B48C',
+					dark: '#654321'
+				},
+				forest: {
+					DEFAULT: '#2F4F2F',
+					light: '#6B8E6B',
+					dark: '#1F3F1F'
+				},
+				cream: {
+					DEFAULT: '#FFF8DC',
+					dark: '#F5F5DC'
+				},
+				amber: {
+					DEFAULT: '#F4A660',
+					50: '#FDF7F0',
+					100: '#FBEBD6',
+					400: '#F4A660',
+					600: '#E8924A',
+					800: '#C4742D'
+				},
+				wood: {
+					DEFAULT: '#8B4513',
+					light: '#D2B48C',
+					dark: '#654321'
+				},
+				forest: {
+					DEFAULT: '#2F4F2F',
+					light: '#6B8E6B',
+					dark: '#1F3F1F'
+				},
+				cream: {
+					DEFAULT: '#FFF8DC',
+					dark: '#F5F5DC'
 				}
 			},
 			borderRadius: {
